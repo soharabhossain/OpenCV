@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/soharabhossain/Data_Collection/blob/master/CV.png)
 
-![alt text](https://github.com/soharabhossain/Data_Collection/blob/master/Lena.tif)
+![alt text](https://github.com/soharabhossain/Data_Collection/blob/master/Lena.tiff)
 
 
 

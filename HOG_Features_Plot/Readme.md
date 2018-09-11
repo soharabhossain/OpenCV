@@ -1,1 +1,1 @@
-Program to compute Histogram of Oriented Gradients from in given image.
+Program to compute Histogram of Oriented Gradients (HOG) features in given image.
